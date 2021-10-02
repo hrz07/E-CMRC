@@ -1,0 +1,66 @@
+.orange-bg{
+    background: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+h3{
+   color: #ff136f;
+}
+.buy-button{
+    border: none;
+    background: linear-gradient(180deg,rgb(247, 59, 59),#fc0765);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat1{
+    background: linear-gradient(90deg,rgb(255, 166, 2),rgb(252, 244, 13));
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+
+}
+.cat2{
+    background:  linear-gradient(90deg,#ff136f,#f84489);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+.cat3{
+    background: linear-gradient(90deg,blue,rgb(77, 77, 248));
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+
+.buy-button2{
+    border: none;
+    background: linear-gradient(180deg,rgb(247, 59, 59),#fc0765);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: .8rem;
+}
+.card{
+    border: none;
+    box-shadow: 7px 7px 20px lightgray;
+    border-radius: 10px;
+}
+
+.back{
+    background: #FEEAE9;
+    height: 300px;
+    border-radius: 10px;
+}
+.back input{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.fot{
+    text-align: center;
+    color: #5f5d5d;
+}
